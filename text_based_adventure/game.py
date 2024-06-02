@@ -1,7 +1,3 @@
-#A Text Adventure/RPG Protoype Developed by Youtube.com/TezFraser
-#Follow me @TezFraser on youtube/twitter/instagram for more awesome and free context!
-#If you wanna show support check out malachitestudios.com/RatedMutant
-
 import time 
 import math
 import random
